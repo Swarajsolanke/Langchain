@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-openai
+opanai
+
+
+langchain-anthropic
+
+langchain-google-genai
+google-genai
+langchain-hub
+python-dotenv
+
+numpy
+numpy 
+scikit-learn
